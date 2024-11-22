@@ -1,13 +1,11 @@
 # Install android Studio tutorial
 *Author: Vitor Minhoto*
 
-This Tutorial is based on the one from [hubspot](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
-
 # Instructions (Start Here)
 
 ## Step 0: Install Android Studio
 
-Download Android Studio [here]([https://git-scm.com/downloads](https://developer.android.com/studio)). Follow the walkthrough, all default options should be good. Don't touch them unless you know what you're doing.
+Download Android Studio [here](https://developer.android.com/studio). Follow the walkthrough, all default options should be good. Don't touch them unless you know what you're doing.
 
 ## Step 1: Create a Project
 Now lets create a new project so we can set everything up before the workshop day!
