@@ -29,11 +29,15 @@ Wait a bit for the project to set up (might take a few minutes). The final resul
 
 ## Step 2: Run the Hello World app
 
-Click **Run App**. 
-
 On the dropdown you have access to both an Android simulated by Android Studio (green arrow) and a physical device (blue arrow) if you connect one to your computer. I recommend you use a physical device if your computer is not very good. Press Run (Red Arrow)
 
 ![Run](setup_images/Run.png)
+
+Click **Run App**. The result should look something like the following image.
+
+![App](setup_images/Screenshot_app.png)
+
+Looks a bit ugly right? We will fix it on Saturday!
 
 ## Step 3: Give yourself a Pat on the Back
 
