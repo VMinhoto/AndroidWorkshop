@@ -14,7 +14,7 @@ Click **New Project**
 
 ![New Project](setup_images/AndroidNewProj.png)
 
-Click **Empty Activity**
+Click **Empty Activity** and **Next**
 
 ![Empty Activity](setup_images/EmptyActivity.png)
 
