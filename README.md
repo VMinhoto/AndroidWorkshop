@@ -12,6 +12,8 @@ Now lets create a new project so we can set everything up before the workshop da
 
 Click **New Project**
 
+![New Project](setup_images/AndroidNewProj.png)
+
 Click **Empty Activity**
 
 Change name to **Hello World** and click **Finish** 
